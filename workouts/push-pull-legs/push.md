@@ -13,10 +13,10 @@ Incline machine press
 **Description:**
 A basic delts exercise.
 **Alts:**
-Dumbbell lateral raises
-Machine lateral raises
+Dumbbell lateral raise
+Machine lateral raise
 
-### 3. One-handed overhead cable triceps extension (18 x 9)
+### 3. Single-arm overhead cable triceps extension (18 x 9)
 **Decription:**
 Basic triceps exercise, emphasis on lateral head.
 One-handed to improve the non-dominant hand.
@@ -37,5 +37,9 @@ Shoulder finisher.
 **Alts:**
 Machine shoulder press
 
-### 6. One-handed cable triceps pushdown (23 x 10)
+### 6. Single-arm cable triceps push-down (23 x 10)
+**Description:**
 Triceps finisher, emphasis on long/median heads.
+**Alts:**
+Machine push-down
+Cable/dumbbell kickback
