@@ -5,7 +5,7 @@ The general plan of the workout is chest-delts-triceps twice.
 **Description:**
 A heavy chest exercise to start a day.
 **Alts:**
-Barbell press (+50 x 9)
+Barbell press (+55 x 8)
 Incline barbell press
 Incline machine press
 
@@ -16,7 +16,7 @@ A basic delts exercise.
 Dumbbell lateral raise
 Machine lateral raise
 
-### 3. Single-arm overhead cable triceps extension (18 x 9)
+### 3. Single-arm overhead cable triceps extension (19 x 10)
 **Decription:**
 Basic triceps exercise, emphasis on lateral head.
 One-handed to improve the non-dominant hand.
@@ -24,20 +24,20 @@ One-handed to improve the non-dominant hand.
 Overhead cable triceps extension
 Dips
 
-### 4. Butterfly machine (72 x 10)
+### 4. Butterfly machine (77 x 10)
 **Description:**
 Isolation chest exersice.
 **Alts:**
 Butterfly machine (elbows)
 Barbell press (on a busy day)
 
-### 5. Dumbbell shoulder press (16 x 10)
+### 5. Dumbbell shoulder press (18 x 7)
 **Description:**
 Shoulder finisher.
 **Alts:**
 Machine shoulder press
 
-### 6. Single-arm cable triceps push-down (23 x 10)
+### 6. Single-arm cable triceps push-down (24 x 10)
 **Description:**
 Triceps finisher, emphasis on long/median heads.
 **Alts:**
