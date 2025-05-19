@@ -1,5 +1,5 @@
 # Pull Day
-Back, biceps, also abs and rear delts a bit
+Back, biceps, also abs and rear delts a bit.
 
 ### 1. Lat pull-down (75 x 10)
 **Description:**
@@ -26,7 +26,7 @@ Straight-arm pull-down
 ABS
 **Alts:**
 Any sort of crunches
-Leg raise
+Leg raises
 
 ### 5. Machine preacher curl (27 x 8)
 **Description:**
@@ -38,10 +38,10 @@ Any sort of bicep curls
 **Description:**
 Extra work for forearms, also a pause for brachialis.
 **Alts:**
-Dumbbell wrist curl
+Dumbbell wrist curls
 
 ### 7. Reverse dumbbell preacher curl (10 x 9)
 **Description:**
 Brachialis isolation.
 **Alts:**
-Reverse wrist curl
+Reverse wrist curls

@@ -13,15 +13,15 @@ Incline machine press
 **Description:**
 A basic delts exercise.
 **Alts:**
-Dumbbell lateral raise
-Machine lateral raise
+Dumbbell lateral raises
+Machine lateral raises
 
 ### 3. Single-arm overhead cable triceps extension (19 x 10)
 **Decription:**
 Basic triceps exercise, emphasis on lateral head.
 One-handed to improve the non-dominant hand.
 **Alts:**
-Overhead cable triceps extension
+Overhead cable triceps extensions
 Dips
 
 ### 4. Butterfly machine (77 x 10)
@@ -41,5 +41,5 @@ Machine shoulder press
 **Description:**
 Triceps finisher, emphasis on long/median heads.
 **Alts:**
-Machine push-down
-Cable/dumbbell kickback
+Machine push-downs
+Cable/dumbbell kickbacks
